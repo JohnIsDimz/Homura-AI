@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.HomuraAIChatbot" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#6750A4</item>
+    </style>
+
+    <style name="Theme.HomuraAIChatbot" parent="Base.Theme.HomuraAIChatbot" />
+</resources>

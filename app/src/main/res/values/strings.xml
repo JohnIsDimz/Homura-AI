@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homura AI</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="thinking_mode">Thinking Mode</string>
+</resources>
